@@ -104,7 +104,7 @@ You can start a log search, metrics search, or live tail from the Sumo Home page
 
 ## Step 3: Monitor and troubleshoot your environment
 
-Not sure how to use your data to monitor and and troubleshoot your environment? Sumo Logic offers a variety of Apps with predefined queries and visualizations that help you get up and running quickly.
+Not sure how to use your data to monitor and troubleshoot your environment? Sumo Logic offers a variety of Apps with predefined queries and visualizations that help you get up and running quickly.
 
 ### App Catalog
 
